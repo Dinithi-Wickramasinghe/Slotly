@@ -218,3 +218,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Environment and secrets
+.env
+backend/.env
+
+# Python
+venv/
+__pycache__/
+
+# Node / Vue
+node_modules/
+dist/
